@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCource\GAZ.CSCource.ConsoleApp\bin\Debug\DataFile.txt
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCource\GAZ.CSCource.ConsoleApp\bin\Debug\GAZ.CSCource.ConsoleApp.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCource\GAZ.CSCource.ConsoleApp\bin\Debug\GAZ.CSCource.ConsoleApp.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCource\GAZ.CSCource.ConsoleApp\obj\x86\Debug\GAZ.CSCource.ConsoleApp.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCource\GAZ.CSCource.ConsoleApp\obj\x86\Debug\GAZ.CSCource.ConsoleApp.pdb
